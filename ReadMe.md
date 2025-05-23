@@ -29,3 +29,9 @@ This project helped me build core Python skills and apply them in a practical wa
 ## 🚀 How to Use
 
 1. Run the Python script:
+2. Choose from the menu:
+- Log a new workout
+- View your workout history
+- Exit
+
+---
