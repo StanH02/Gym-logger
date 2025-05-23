@@ -1,6 +1,6 @@
 # 🏋️‍♂️ Stan's Gym Logger
 
-A beginner-friendly Python CLI (Command Line Interface) app that allows users to log their workouts, view workout history, and store entries with timestamps — all in a local text file.
+A beginner-friendly Python CLI (Command Line Interface) app that allows users to log their workouts, view workout history, and store entries with timestamps - all in a local text file.
 
 ---
 
