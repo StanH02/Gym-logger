@@ -1,0 +1,2 @@
+Hello, Stan!
+This is your new file!
